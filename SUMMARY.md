@@ -2,8 +2,6 @@
 
 * [Introduction](README.md)
 * [Getting Started](chapter1.md)
-    * [Overview - 综述](overview---综述.md)
-    * [Installation Guide - 安装教程](installation-guide---安装教程.md)
     * Frequently Asked Questions - 常见问题
     * Migration from 1.0 - 迁移
     * Glossary - 术语表
