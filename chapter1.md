@@ -1,13 +1,3 @@
----
-title: SQLAlchemy v1.1手册-综述篇
-
-date: 2017-01-07 10:03:17
-
-tags:
- - python
- - SQLAlchemy
----
-
 > 原文传送门：[Overview-SQLAlchemy 1.1 Documentation](http://docs.sqlalchemy.org/en/latest/intro.html)
 
 ## 综述
