@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Getting Started](chapter1.md)
-    * [Getting Started](ge.md)
+    * [Getting Started - 快速开始](ge.md)
     * [Frequently Asked Questions - 常见问题](frequently-asked-questions---常见问题.md)
     * Migration from 1.0 - 迁移
     * Glossary - 术语表
