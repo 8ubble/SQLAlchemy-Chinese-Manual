@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Getting Started](chapter1.md)
-    * Frequently Asked Questions - 常见问题
+    * [Frequently Asked Questions - 常见问题](frequently-asked-questions---常见问题.md)
     * Migration from 1.0 - 迁移
     * Glossary - 术语表
 * SQLAlchemy ORM
