@@ -7,7 +7,7 @@
     * [Migration from 1.0 - 迁移](migration-from-10---迁移.md)
     * [Glossary - 术语表](glossary---术语表.md)
 * [SQLAlchemy ORM](sqlalchemy-orm.md)
-    * Object Relational Tutorial
+    * [Object Relational Tutorial](object-relational-tutorial.md)
     * Mapper Configuration
     * Relationship Configuration
     * Declarative Extension
