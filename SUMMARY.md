@@ -21,7 +21,7 @@
     * Cached Query Extension
     * ORM Events and Internals
     * Introduction to Examples
-* SQLAlchemy Core
+* [SQLAlchemy Core](sqlalchemy-core.md)
     * Read this first: SQL Expression Language Tutorial
     * All the Built In SQL: SQL Expression API
     * Engines, Connections, Pools: Engine Configuration
@@ -41,6 +41,6 @@
     * Core Basics: Event System
     * Core Basics: Core Event Interfaces
     * Core Basics: Creating Custom SQL Constructs
-* Dialect Documentation
+* [Dialect Documentation](dialect-documentation.md)
     * Index of all Dialects
 
