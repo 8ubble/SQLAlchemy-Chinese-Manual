@@ -4,8 +4,8 @@
 * [Getting Started](chapter1.md)
     * [Getting Started - 快速开始](Getting Started.md)
     * [Frequently Asked Questions - 常见问题](frequently-asked-questions---常见问题.md)
-    * Migration from 1.0 - 迁移
-    * Glossary - 术语表
+    * [Migration from 1.0 - 迁移](migration-from-10---迁移.md)
+    * [Glossary - 术语表](glossary---术语表.md)
 * SQLAlchemy ORM
     * Object Relational Tutorial
     * Mapper Configuration

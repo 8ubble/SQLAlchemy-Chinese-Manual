@@ -1,6 +1,6 @@
 > 原文传送门：[Overview-SQLAlchemy 1.1 Documentation](http://docs.sqlalchemy.org/en/latest/intro.html)
 
-# 开始 / Getting Start 
+# 开始 | Getting Start 
 
 - Getting Started | 快速开始
  - Overview | 综述
