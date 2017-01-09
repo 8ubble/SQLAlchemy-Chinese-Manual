@@ -1,10 +1,10 @@
 #SQLAlchemy ORM
 
-Here, the Object Relational Mapper is introduced and fully described. If you want to work with higher-level SQL which is constructed automatically for you, as well as automated persistence of Python objects, proceed first to the tutorial.
+此处开讲“对象关系映射器”。 如果要使用自动为您构建的更高级SQL以及Python对象的自动持久化，请先阅读本教程。
 
- - Read this first: Object Relational Tutorial
- - ORM Configuration: Mapper Configuration | Relationship Configuration
- - Configuration Extensions: Declarative Extension |  Association Proxy | Hybrid Attributes | Automap | Mutable Scalars | Indexable
- - ORM Usage: Session Usage and Guidelines | Loading Objects | Cached Query Extension
- - Extending the ORM: ORM Events and Internals
- - Other: Introduction to Examples
+ - 预习一下： [对象关系教程](Getting Started.md)
+ - 配置ORM： 映射配置 | 关系配置
+ - 配置扩展： 定义扩展 |  关联代理 | 混合属性 | 转换 | 内存模型 | 索引
+ - 使用ORM： 会话配置 | 加载对象 | 缓存查询扩展
+ - 扩展ORM： ORM事件和内部
+ - 其他： 示例介绍
