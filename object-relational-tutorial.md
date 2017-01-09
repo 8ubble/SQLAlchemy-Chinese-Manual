@@ -26,7 +26,11 @@
 第一次调用类似Engine.execute（）或Engine.connect（）的方法时，Engine会建立与数据库的真正的DBAPI连接，然后用于发出SQL。 当使用ORM时，我们通常不会直接使用引擎创建; 相反，它在后台由ORM使用，我们将很快看到。
 
 ## 声明一个映射
+当使用ORM，配置过程开始通过描绘我们将要处理的数据库表，然后通过我们自己的将被映射到这些表的类来定义。
 
+In modern SQLAlchemy, these two tasks are usually performed together, using a system known as Declarative, which allows us to create classes that include directives to describe the actual database table they will be mapped to.
+
+在现代SQLAlchemy中，这两个任务通常是一起执行，使用被称为声明一个系统，它允许我们创建类，包括指令来描述它们将被映射到实际的数据库表。
 ## 创建模式
 
 ## 创建映射类的实例
