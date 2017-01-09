@@ -9,7 +9,7 @@
 * 性能（Performance）
 * 会话和查询（Sessions / Queries）
 
-##连接和引擎（Connections / Engines）
+#连接和引擎（Connections / Engines）
 
 - 如何配置日志记录？（How do I configure logging?
 ）
