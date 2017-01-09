@@ -6,7 +6,7 @@
     * [Frequently Asked Questions - 常见问题](frequently-asked-questions---常见问题.md)
     * [Migration from 1.0 - 迁移](migration-from-10---迁移.md)
     * [Glossary - 术语表](glossary---术语表.md)
-* SQLAlchemy ORM
+* [SQLAlchemy ORM](sqlalchemy-orm.md)
     * Object Relational Tutorial
     * Mapper Configuration
     * Relationship Configuration
