@@ -42,5 +42,5 @@
     * Core Basics: Core Event Interfaces
     * Core Basics: Creating Custom SQL Constructs
 * [Dialect Documentation](dialect-documentation.md)
-    * Index of all Dialects
+    * [Index of all Dialects](index-of-all-dialects.md)
 
